@@ -53,6 +53,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "author": "This project was done by Caique Peixoto."
+    "author": "echo \"Done with love by Caique Peixoto\""
   }
 }
